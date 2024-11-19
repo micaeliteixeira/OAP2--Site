@@ -1,0 +1,42 @@
+.header-container {
+  border-bottom: solid rgba(0, 0, 0, 0.1) 1px;
+  height: 110px;
+  width: 100%;
+}
+
+.header-container-values {
+  width: 80%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.header-container-values-icons {
+  display: flex;
+  gap: 15px;
+}
+
+.header-container-values-menu {
+  display: flex;
+  width: 50%;
+  justify-content: space-evenly;
+  font-size: medium;
+  letter-spacing: 0.2px;
+  margin-right: 20%;
+}
+
+.nav-menu {
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+}
+
+.nav-menu:hover {
+  outline: none;
+  font-weight: 600;
+}
+.nav-menu-weight {
+  font-weight: 700;
+}
