@@ -9,7 +9,7 @@ import Recipe from '../page/Recipe'
 
 const Router = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter future={{ v7_relativeSplatPath: true }}>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/blog" element={<Blog />} />
