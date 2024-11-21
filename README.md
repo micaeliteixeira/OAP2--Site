@@ -26,7 +26,7 @@ Bem-vindo ao **OPA2 - Blog de Gastronomia**! Este é um site dedicado a comparti
 ├── public/              # Arquivos públicos
 ├── package.json         # Configuração do projeto
 └── README.md            # Este arquivo
-
+````
 
 ---
 
@@ -38,8 +38,33 @@ Siga estas instruções para rodar o projeto em sua máquina local:
 - **Node.js:** Certifique-se de que o Node.js (versão 20 ou superior) está instalado.
 - **Gerenciador de Pacotes:** Use o npm ou yarn (vem com o Node.js por padrão).
 
-### 1.  Clonar o Repositório
+### 2.  Clonar o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone git@github.com:micaeliteixeira/OAP2--Site.git
 ````
+
+### 3.  Navegar para o Diretório do Projeto
+
+```bash
+cd nome-do-repositorio
+````
+
+### 4. Instalar Dependências
+
+```bash
+npm install
+# ou
+yarn install
+````
+
+### 5. Rodar o Servidor de Desenvolvimento
+
+```bash
+npm run dev
+# ou
+yarn dev
+````
+
+### 5. Acessar no Navegador
+Abra o navegador e acesse: http://localhost:5173
