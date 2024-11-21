@@ -59,7 +59,7 @@ const BestRecipe = () => {
           </div>
           <button
             className="container-best-texts-info-button"
-            onClick={() => navigate(`recipe/${findRandomRecipe?.id}`)}
+            onClick={() => navigate(`/OAP2--Site/recipe/${findRandomRecipe?.id}`)}
           >
             Ver Receita <img src={PalyCircle} alt="Icone de paly" width={'24px'} />
           </button>

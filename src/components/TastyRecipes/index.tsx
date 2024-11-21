@@ -9,7 +9,7 @@ const TastyRecipes = () => {
             <div
               key={recipe.id}
               className="container-blog-value"
-              onClick={() => (window.location.href = `/recipe/${recipe.id}`)}
+              onClick={() => (window.location.href = `/OAP2--Site/recipe/${recipe.id}`)}
             >
               <img
                 src={recipe?.foto}

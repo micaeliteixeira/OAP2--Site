@@ -21,7 +21,7 @@ const RecipeCards = () => {
           <div
             key={recipe.id}
             className="container-recipe"
-            onClick={() => navigate(`recipe/${recipe?.id}`)}
+            onClick={() => navigate(`/OAP2--Site/recipe/${recipe?.id}`)}
           >
             <div className="container-recipe-img">
               <img

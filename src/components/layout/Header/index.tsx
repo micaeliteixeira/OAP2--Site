@@ -9,17 +9,17 @@ import { randomNumber } from '../../../utils/randomNumber'
 const Header = () => {
   const number = randomNumber()
   const navItems: { path: string; name: string }[] = [
-    { path: '/', name: 'Home' },
-    { path: `/recipe/${number}`, name: 'Receita aleatoria' },
-    { path: '/blog', name: 'Blog' },
-    { path: '/contact', name: 'Contato' },
-    { path: '/about', name: 'Sobre nós' }
+    { path: '/OAP2--Site/', name: 'Home' },
+    { path: `/OAP2--Site/recipe/${number}`, name: 'Receita aleatória' },
+    { path: '/OAP2--Site/blog', name: 'Blog' },
+    { path: '/OAP2--Site/contact', name: 'Contato' },
+    { path: '/OAP2--Site/about', name: 'Sobre nós' }
   ]
 
   const getNavClassName = (path: string) => {
     const pathname = window.location.pathname
-    if (path.startsWith('/recipe/')) {
-      return pathname.startsWith('/recipe/') ? 'nav-menu nav-menu-weight' : 'nav-menu'
+    if (path.startsWith('/OAP2--Site/recipe/')) {
+      return pathname.startsWith('/OAP2--Site/recipe/') ? 'nav-menu nav-menu-weight' : 'nav-menu'
     }
 
     return pathname === path ? 'nav-menu nav-menu-weight' : 'nav-menu'

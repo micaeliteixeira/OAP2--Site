@@ -11,7 +11,7 @@ const BlogTexts = () => {
         <div
           key={blog.id}
           className="container-blog-value"
-          onClick={() => (window.location.href = `/blog/${blog.id}`)}
+          onClick={() => (window.location.href = `/OAP2--Site/blog/${blog.id}`)}
         >
           <img
             src={blog?.image}
