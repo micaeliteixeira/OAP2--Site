@@ -1,50 +1,45 @@
-# React + TypeScript + Vite
+# OAP2 - Blog de Gastronomia 🍴
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo ao **OPA2 - Blog de Gastronomia**! Este é um site dedicado a compartilhar receitas deliciosas e notícias faker sobre o mundo da gastronomia. Para a OAP2 da UVV.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Frontend:** Vite com React
+- **Roteamento:** React Router DOM
+- **Backend:** Node.js (versão 22)
+- **Estilo:** Css
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## 📦 Estrutura do Projeto
 
-- Configure the top-level `parserOptions` property like this:
+````plaintext
+/
+├── src/
+│   ├── components/      # Componentes React reutilizáveis
+│   ├── pages/           # Páginas do site (Home, Receitas, Blog, etc.)
+│   ├── assets/          # Imagens, ícones e outros recursos estáticos
+│   ├── router/          # Rotas da aplicação
+│   ├── utils/           # Funções uteis
+│   ├── App.jsx          # Arquivo principal do React
+│   └── index.jsx        # Entrada da aplicação
+├── public/              # Arquivos públicos
+├── package.json         # Configuração do projeto
+└── README.md            # Este arquivo
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+---
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+## 🛠️ Como Rodar o Projeto Localmente
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+Siga estas instruções para rodar o projeto em sua máquina local:
+
+### 1.  Pré-requisitos
+- **Node.js:** Certifique-se de que o Node.js (versão 20 ou superior) está instalado.
+- **Gerenciador de Pacotes:** Use o npm ou yarn (vem com o Node.js por padrão).
+
+### 1.  Clonar o Repositório
+
+```bash
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+````
