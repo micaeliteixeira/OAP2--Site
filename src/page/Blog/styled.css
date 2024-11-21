@@ -1,0 +1,35 @@
+.container-blog {
+  display: flex;
+  flex-direction: column;
+}
+
+.container-blog-top {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  width: 100%;
+}
+
+.container-blog-content {
+  display: flex;
+  width: 100%;
+  margin-top: 80px;
+}
+
+.container-blog-content-left {
+  display: flex;
+  width: 70%;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+
+.container-blog-content-right {
+  display: flex;
+  width: 30%;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 24px;
+  margin-left: 24px;
+}

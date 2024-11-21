@@ -1,0 +1,15 @@
+.content-blog-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.title-content {
+  font-size: 60px;
+  letter-spacing: 0.04px;
+  font-weight: 600;
+  position: absolute;
+  top: 30%;
+  color: white;
+  text-align: center;
+  width: 80%;
+}

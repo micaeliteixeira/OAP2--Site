@@ -40,7 +40,7 @@
     "autor": "Maria Silva",
     "pais": "Brasil",
     "categoria": "Vegetariano",
-    "autor_foto": "https://randomuser.me/api/portraits/women/1.jpg"
+    "autor_foto": "https://randomuser.me/api/portraits/women/10.jpg"
   },
   {
     "id": 2,
@@ -66,7 +66,7 @@
     "autor": "João Costa",
     "pais": "Brasil",
     "categoria": "Sobremesa",
-    "autor_foto": "https://randomuser.me/api/portraits/men/1.jpg"
+    "autor_foto": "https://randomuser.me/api/portraits/men/7.jpg"
   },
   {
     "id": 3,
@@ -112,7 +112,7 @@
     "autor": "Carla Mendes",
     "pais": "Itália",
     "categoria": "Prato Principal",
-    "autor_foto": "https://randomuser.me/api/portraits/women/1.jpg"
+    "autor_foto": "https://randomuser.me/api/portraits/women/8.jpg"
   },
   {
     "id": 4,
@@ -150,7 +150,7 @@
     "autor": "Luca Rossi",
     "pais": "Itália",
     "categoria": "Entrada",
-    "autor_foto": "https://randomuser.me/api/portraits/men/1.jpg"
+    "autor_foto": "https://randomuser.me/api/portraits/men/9.jpg"
   },
   {
     "id": 5,
@@ -192,7 +192,7 @@
     "autor": "Ahmed Tarek",
     "pais": "Marrocos",
     "categoria": "Vegetariano",
-    "autor_foto": "https://randomuser.me/api/portraits/men/1.jpg"
+    "autor_foto": "https://randomuser.me/api/portraits/men/11.jpg"
   },
   {
     "id": 6,
@@ -311,7 +311,7 @@
     "autor": "Carlos Alberto",
     "pais": "Brasil",
     "categoria": "Prato Principal",
-    "autor_foto": "https://randomuser.me/api/portraits/men/1.jpg"
+    "autor_foto": "https://randomuser.me/api/portraits/men/12.jpg"
   },
   {
     "id": 9,
@@ -350,6 +350,6 @@
     "autor": "Luis Martinez",
     "pais": "México",
     "categoria": "Entrada",
-    "autor_foto": "https://randomuser.me/api/portraits/men/1.jpg"
+    "autor_foto": "https://randomuser.me/api/portraits/men/14.jpg"
   }
 ]
