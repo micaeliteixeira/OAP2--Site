@@ -1,0 +1,20 @@
+.container-text {
+  margin: 80px auto;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  width: 90%;
+}
+
+.title {
+  font-size: 60px;
+  letter-spacing: 0.04px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.subtitle {
+  color: rgba(0, 0, 0, 0.6);
+  font-weight: 400;
+  font-size: 18px;
+}

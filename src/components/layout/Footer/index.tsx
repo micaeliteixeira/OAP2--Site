@@ -11,7 +11,7 @@ const Footer = () => {
       <div className="footer-container-values">
         <div className="footer-container-values-top">
           <img src={Logo} alt="Logo da página" width={'100px'} />
-          <p className="p-subtitle">Everyone can be a chef in their own kitchen</p>
+          <p className="p-subtitle">Todo mundo pode ser um chef na própria cozinha.</p>
         </div>
 
         <div className="footer-container-values-icons">

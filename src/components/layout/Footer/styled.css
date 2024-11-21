@@ -11,7 +11,7 @@
 .footer-container-values-top {
   display: flex;
   flex-direction: column;
-  gap: 24px;
+  gap: 12px;
   margin-bottom: 24px;
 }
 

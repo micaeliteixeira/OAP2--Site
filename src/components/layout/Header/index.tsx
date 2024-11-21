@@ -8,9 +8,10 @@ import Twitter from '../../../assets/twitter.svg'
 const Header = () => {
   const navItems: { path: string; name: string }[] = [
     { path: '/', name: 'Home' },
+    { path: '/random-recipe', name: 'Receita aleatoria' },
     { path: '/blog', name: 'Blog' },
-    { path: '/contact', name: 'Contact' },
-    { path: '/about', name: 'About us' }
+    { path: '/contact', name: 'Contado' },
+    { path: '/about', name: 'Sobre nós' }
   ]
 
   const getNavClassName = (path: string) => {

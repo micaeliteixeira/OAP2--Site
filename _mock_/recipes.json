@@ -1,0 +1,406 @@
+[
+  {
+    "id": 1,
+    "titulo": "Salada de Quinoa",
+    "foto": "https://i.ytimg.com/vi/5np4Qc4ZQhc/maxresdefault.jpg",
+    "tempo_preparo": "20 minutos",
+    "data_criacao": "2024-11-20",
+    "ingredientes": [
+      {
+        "ingrediente": "Quinoa",
+        "quantidade": "1 xícara"
+      },
+      {
+        "ingrediente": "Tomate-cereja",
+        "quantidade": "1 xícara"
+      },
+      {
+        "ingrediente": "Pepino",
+        "quantidade": "1 unidade"
+      },
+      {
+        "ingrediente": "Azeite de oliva",
+        "quantidade": "2 colheres de sopa"
+      },
+      {
+        "ingrediente": "Limão",
+        "quantidade": "1 unidade"
+      },
+      {
+        "ingrediente": "Sal",
+        "quantidade": "a gosto"
+      },
+      {
+        "ingrediente": "Hortelã",
+        "quantidade": "2 colheres de sopa"
+      }
+    ],
+    "modo_preparo": "Lave a quinoa em água corrente.\rCozinhe a quinoa em água fervente por 15 minutos e escorra.\rPique o pepino e corte os tomates ao meio.\rMisture todos os ingredientes em uma tigela.\rTempere com azeite, suco de limão e sal.",
+    "informacoes_nutricionais": {
+      "calorias": 200,
+      "proteinas": "6g",
+      "gorduras": "5g",
+      "carboidratos": "30g"
+    },
+    "autor": "Maria Silva",
+    "pais": "Brasil",
+    "categoria": "Vegetariano",
+    "autor_foto": "https://randomuser.me/api/portraits/women/1.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "Brigadeiro de Colher",
+    "foto": "https://i0.statig.com.br/bancodeimagens/e1/k0/5u/e1k05uozr8zvyc9j48oup8xm7.jpg",
+    "tempo_preparo": "15 minutos",
+    "data_criacao": "2024-11-20",
+    "ingredientes": [
+      {
+        "ingrediente": "Leite condensado",
+        "quantidade": "1 lata"
+      },
+      {
+        "ingrediente": "Chocolate em pó",
+        "quantidade": "3 colheres de sopa"
+      },
+      {
+        "ingrediente": "Manteiga",
+        "quantidade": "1 colher de sopa"
+      }
+    ],
+    "modo_preparo": "Em uma panela, coloque o leite condensado, o chocolate e a manteiga.\rMexa em fogo médio até a mistura engrossar e soltar do fundo da panela.\rDeixe esfriar antes de servir.",
+    "informacoes_nutricionais": {
+      "calorias": 350,
+      "proteinas": "5g",
+      "gorduras": "12g",
+      "carboidratos": "50g"
+    },
+    "autor": "João Costa",
+    "pais": "Brasil",
+    "categoria": "Sobremesa",
+    "autor_foto": "https://randomuser.me/api/portraits/men/1.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "Lasanha à Bolonhesa",
+    "foto": "https://cdn.casaeculinaria.com/wp-content/uploads/2023/12/10120623/Lasanha-a-bolonhesa-com-carne-moida.webp",
+    "tempo_preparo": "1 hora",
+    "data_criacao": "2024-11-20",
+    "ingredientes": [
+      {
+        "ingrediente": "Massa de lasanha",
+        "quantidade": "500g"
+      },
+      {
+        "ingrediente": "Carne moída",
+        "quantidade": "500g"
+      },
+      {
+        "ingrediente": "Molho de tomate",
+        "quantidade": "2 xícaras"
+      },
+      {
+        "ingrediente": "Queijo mussarela",
+        "quantidade": "300g"
+      },
+      {
+        "ingrediente": "Parmesão ralado",
+        "quantidade": "100g"
+      },
+      {
+        "ingrediente": "Cebola",
+        "quantidade": "1 unidade"
+      },
+      {
+        "ingrediente": "Alho",
+        "quantidade": "2 dentes"
+      },
+      {
+        "ingrediente": "Sal e pimenta",
+        "quantidade": "a gosto"
+      }
+    ],
+    "modo_preparo": "Refogue a cebola e o alho até dourar.\rAdicione a carne e cozinhe até dourar.\rMisture o molho de tomate e tempere.\rMonte a lasanha alternando camadas de massa, molho e queijo.\rAsse em forno pré-aquecido a 200°C por 30 minutos.",
+    "informacoes_nutricionais": {
+      "calorias": 500,
+      "proteinas": "25g",
+      "gorduras": "15g",
+      "carboidratos": "50g"
+    },
+    "autor": "Carla Mendes",
+    "pais": "Itália",
+    "categoria": "Prato Principal",
+    "autor_foto": "https://randomuser.me/api/portraits/women/1.jpg"
+  },
+  {
+    "id": 4,
+    "titulo": "Bruschetta Tradicional",
+    "foto": "https://static.wixstatic.com/media/fa307f_c32dbc3a914f4a758980d1ea8ae1fb7d~mv2.jpg/v1/fill/w_704,h_610,al_c,q_85/fa307f_c32dbc3a914f4a758980d1ea8ae1fb7d~mv2.jpg",
+    "tempo_preparo": "10 minutos",
+    "data_criacao": "2024-11-20",
+    "ingredientes": [
+      {
+        "ingrediente": "Pão italiano",
+        "quantidade": "4 fatias"
+      },
+      {
+        "ingrediente": "Tomate",
+        "quantidade": "2 unidades"
+      },
+      {
+        "ingrediente": "Manjericão",
+        "quantidade": "10 folhas"
+      },
+      {
+        "ingrediente": "Azeite de oliva",
+        "quantidade": "3 colheres de sopa"
+      },
+      {
+        "ingrediente": "Alho",
+        "quantidade": "1 dente"
+      },
+      {
+        "ingrediente": "Sal",
+        "quantidade": "a gosto"
+      }
+    ],
+    "modo_preparo": "Torre as fatias de pão no forno ou na frigideira.\rEsfregue o alho nas fatias de pão ainda quentes.\rPique os tomates e misture com manjericão, azeite e sal.\rColoque a mistura sobre o pão torrado e sirva.",
+    "informacoes_nutricionais": {
+      "calorias": 150,
+      "proteinas": "4g",
+      "gorduras": "5g",
+      "carboidratos": "20g"
+    },
+    "autor": "Luca Rossi",
+    "pais": "Itália",
+    "categoria": "Entrada",
+    "autor_foto": "https://randomuser.me/api/portraits/men/1.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "Cuscuz Marroquino",
+    "foto": "https://www.comidaquecura.com.br/arquivos/PRODUTOS/1271567608229963837/97_GG_Cuscus-marroquino.jpg",
+    "tempo_preparo": "25 minutos",
+    "data_criacao": "2024-11-20",
+    "ingredientes": [
+      {
+        "ingrediente": "Cuscuz marroquino",
+        "quantidade": "1 xícara"
+      },
+      {
+        "ingrediente": "Água quente",
+        "quantidade": "1 xícara"
+      },
+      {
+        "ingrediente": "Tomate",
+        "quantidade": "1 unidade"
+      },
+      {
+        "ingrediente": "Cenoura",
+        "quantidade": "1 unidade"
+      },
+      {
+        "ingrediente": "Passas",
+        "quantidade": "2 colheres de sopa"
+      },
+      {
+        "ingrediente": "Azeite de oliva",
+        "quantidade": "3 colheres de sopa"
+      },
+      {
+        "ingrediente": "Sal e pimenta",
+        "quantidade": "a gosto"
+      }
+    ],
+    "modo_preparo": "Hidrate o cuscuz com a água quente e deixe descansar por 5 minutos.\rSolte o cuscuz com um garfo.\rAdicione os legumes picados, passas e azeite.\rTempere com sal e pimenta e misture bem antes de servir.",
+    "informacoes_nutricionais": {
+      "calorias": 250,
+      "proteinas": "5g",
+      "gorduras": "7g",
+      "carboidratos": "40g"
+    },
+    "autor": "Ahmed Tarek",
+    "pais": "Marrocos",
+    "categoria": "Vegetariano",
+    "autor_foto": "https://randomuser.me/api/portraits/men/1.jpg"
+  },
+  {
+    "id": 6,
+    "titulo": "Sopa de Abóbora",
+    "foto": "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/e04f19accde8c5a9c931b56407fc8ed0.jpg",
+    "tempo_preparo": "40 minutos",
+    "data_criacao": "2024-11-20",
+    "ingredientes": [
+      {
+        "ingrediente": "Abóbora",
+        "quantidade": "500g"
+      },
+      {
+        "ingrediente": "Cebola",
+        "quantidade": "1 unidade"
+      },
+      {
+        "ingrediente": "Alho",
+        "quantidade": "2 dentes"
+      },
+      {
+        "ingrediente": "Caldo de legumes",
+        "quantidade": "1 litro"
+      },
+      {
+        "ingrediente": "Azeite",
+        "quantidade": "2 colheres de sopa"
+      },
+      {
+        "ingrediente": "Sal e pimenta",
+        "quantidade": "a gosto"
+      }
+    ],
+    "modo_preparo": "Refogue a cebola e o alho no azeite até dourar.\rAdicione a abóbora picada e refogue por mais alguns minutos.\rCubra com o caldo de legumes e cozinhe até a abóbora ficar macia.\rBata no liquidificador até obter um creme.\rTempere com sal e pimenta e sirva quente.",
+    "informacoes_nutricionais": {
+      "calorias": 120,
+      "proteinas": "2g",
+      "gorduras": "4g",
+      "carboidratos": "20g"
+    },
+    "autor": "Ana Clara",
+    "pais": "Brasil",
+    "categoria": "Vegetariano",
+    "autor_foto": "https://randomuser.me/api/portraits/women/1.jpg"
+  },
+  {
+    "id": 7,
+    "titulo": "Tiramisu",
+    "foto": "https://www.coisasdaleia.com.br/wp-content/uploads/2023/05/tiramisu-fatia.jpg",
+    "tempo_preparo": "4 horas",
+    "data_criacao": "2024-11-20",
+    "ingredientes": [
+      {
+        "ingrediente": "Biscoito champanhe",
+        "quantidade": "200g"
+      },
+      {
+        "ingrediente": "Café",
+        "quantidade": "1 xícara"
+      },
+      {
+        "ingrediente": "Mascarpone",
+        "quantidade": "500g"
+      },
+      {
+        "ingrediente": "Açúcar",
+        "quantidade": "100g"
+      },
+      {
+        "ingrediente": "Cacau em pó",
+        "quantidade": "2 colheres de sopa"
+      },
+      {
+        "ingrediente": "Ovos",
+        "quantidade": "4 unidades"
+      }
+    ],
+    "modo_preparo": "Separe as claras das gemas e bata as claras em neve.\rMisture as gemas com o açúcar até obter um creme claro.\rAdicione o mascarpone e misture bem.\rIncorpore as claras em neve delicadamente.\rMolhe os biscoitos no café e monte camadas alternando com o creme.\rPolvilhe cacau por cima e leve à geladeira por 4 horas antes de servir.",
+    "informacoes_nutricionais": {
+      "calorias": 400,
+      "proteinas": "8g",
+      "gorduras": "20g",
+      "carboidratos": "45g"
+    },
+    "autor": "Giovanni Bianchi",
+    "pais": "Itália",
+    "categoria": "Sobremesa",
+    "autor_foto": "https://randomuser.me/api/portraits/men/1.jpg"
+  },
+  {
+    "id": 8,
+    "titulo": "Feijoada Brasileira",
+    "foto": "https://cdn.blablacar.com/wp-content/uploads/br/2024/11/11162103/feijoada.webp",
+    "tempo_preparo": "3 horas",
+    "data_criacao": "2024-11-20",
+    "ingredientes": [
+      {
+        "ingrediente": "Feijão preto",
+        "quantidade": "500g"
+      },
+      {
+        "ingrediente": "Carne seca",
+        "quantidade": "300g"
+      },
+      {
+        "ingrediente": "Linguiça",
+        "quantidade": "300g"
+      },
+      {
+        "ingrediente": "Costelinha",
+        "quantidade": "300g"
+      },
+      {
+        "ingrediente": "Cebola",
+        "quantidade": "1 unidade"
+      },
+      {
+        "ingrediente": "Alho",
+        "quantidade": "3 dentes"
+      },
+      {
+        "ingrediente": "Sal",
+        "quantidade": "a gosto"
+      }
+    ],
+    "modo_preparo": "Deixe o feijão de molho por 12 horas.\rCozinhe o feijão com as carnes por 2 horas em fogo baixo.\rRefogue a cebola e o alho e adicione ao feijão.\rAcerte o sal e cozinhe por mais 30 minutos.\rSirva com arroz e farofa.",
+    "informacoes_nutricionais": {
+      "calorias": 600,
+      "proteinas": "35g",
+      "gorduras": "20g",
+      "carboidratos": "50g"
+    },
+    "autor": "Carlos Alberto",
+    "pais": "Brasil",
+    "categoria": "Prato Principal",
+    "autor_foto": "https://randomuser.me/api/portraits/men/1.jpg"
+  },
+  {
+    "id": 9,
+    "titulo": "Guacamole",
+    "foto": "data:image/jpeg;base64,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",
+    "tempo_preparo": "10 minutos",
+    "data_criacao": "2024-11-20",
+    "ingredientes": [
+      {
+        "ingrediente": "Abacate",
+        "quantidade": "2 unidades"
+      },
+      {
+        "ingrediente": "Tomate",
+        "quantidade": "1 unidade"
+      },
+      {
+        "ingrediente": "Cebola",
+        "quantidade": "1/2 unidade"
+      },
+      {
+        "ingrediente": "Suco de limão",
+        "quantidade": "2 colheres de sopa"
+      },
+      {
+        "ingrediente": "Coentro",
+        "quantidade": "2 colheres de sopa"
+      },
+      {
+        "ingrediente": "Sal e pimenta",
+        "quantidade": "a gosto"
+      }
+    ],
+    "modo_preparo": "Amasse o abacate com um garfo.\rPique o tomate e a cebola em cubos pequenos.\rMisture todos os ingredientes em uma tigela.\rTempere com sal, pimenta e suco de limão.\rSirva com nachos ou torradas.",
+    "informacoes_nutricionais": {
+      "calorias": 150,
+      "proteinas": "2g",
+      "gorduras": "10g",
+      "carboidratos": "10g"
+    },
+    "autor": "Luis Martinez",
+    "pais": "México",
+    "categoria": "Entrada",
+    "autor_foto": "https://randomuser.me/api/portraits/men/1.jpg"
+  }
+]

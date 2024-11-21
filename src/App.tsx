@@ -8,7 +8,9 @@ function App() {
   return (
     <>
       <Header />
-      <Router />
+      <div className="container-children">
+        <Router />
+      </div>
       <Footer />
     </>
   )
