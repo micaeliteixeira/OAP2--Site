@@ -3,10 +3,8 @@ import './styled.css'
 import Blogs from '../../../_mock_/blog.json'
 import Clock from '../../assets/clock.svg'
 import { formatDate } from '../../utils/formartDate'
-import { useNavigate } from 'react-router-dom'
 
 const BlogTexts = () => {
-  const navigate = useNavigate()
   return (
     <>
       {Blogs?.map((blog) => (
