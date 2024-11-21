@@ -7,13 +7,11 @@ import Parchment from '../../assets/parchment.svg'
 import RecipeMock from '../../../_mock_/recipes.json'
 import Timer from '../../assets/time.svg'
 import { formatDate } from '../../utils/formartDate.tsx'
-import { randomNumber } from '../../utils/randomNumber.tsx'
 import { useNavigate } from 'react-router-dom'
 
 const BestRecipe = () => {
   const navigate = useNavigate()
-  const number = randomNumber()
-  const findRandomRecipe = RecipeMock?.find((recipe) => recipe?.id === number)
+  const findRandomRecipe = RecipeMock?.find((recipe) => recipe?.id === 3)
 
   return (
     <section className="container-best">

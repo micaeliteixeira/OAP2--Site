@@ -4,11 +4,13 @@ import Facebook from '../../../assets/facebook.svg'
 import Instagram from '../../../assets/instagram.svg'
 import Logo from '../../../assets/logo.svg'
 import Twitter from '../../../assets/twitter.svg'
+import { randomNumber } from '../../../utils/randomNumber'
 
 const Header = () => {
+  const number = randomNumber()
   const navItems: { path: string; name: string }[] = [
     { path: '/', name: 'Home' },
-    { path: '/random-recipe', name: 'Receita aleatoria' },
+    { path: `/recipe/${number}`, name: 'Receita aleatoria' },
     { path: '/blog', name: 'Blog' },
     { path: '/contact', name: 'Contado' },
     { path: '/about', name: 'Sobre nós' }
@@ -16,6 +18,10 @@ const Header = () => {
 
   const getNavClassName = (path: string) => {
     const pathname = window.location.pathname
+    if (path.startsWith('/recipe/')) {
+      return pathname.startsWith('/recipe/') ? 'nav-menu nav-menu-weight' : 'nav-menu'
+    }
+
     return pathname === path ? 'nav-menu nav-menu-weight' : 'nav-menu'
   }
 

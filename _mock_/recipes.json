@@ -36,12 +36,7 @@
       }
     ],
     "modo_preparo": "Lave a quinoa em água corrente.\rCozinhe a quinoa em água fervente por 15 minutos e escorra.\rPique o pepino e corte os tomates ao meio.\rMisture todos os ingredientes em uma tigela.\rTempere com azeite, suco de limão e sal.",
-    "informacoes_nutricionais": {
-      "calorias": 200,
-      "proteinas": "6g",
-      "gorduras": "5g",
-      "carboidratos": "30g"
-    },
+
     "autor": "Maria Silva",
     "pais": "Brasil",
     "categoria": "Vegetariano",
@@ -68,12 +63,6 @@
       }
     ],
     "modo_preparo": "Em uma panela, coloque o leite condensado, o chocolate e a manteiga.\rMexa em fogo médio até a mistura engrossar e soltar do fundo da panela.\rDeixe esfriar antes de servir.",
-    "informacoes_nutricionais": {
-      "calorias": 350,
-      "proteinas": "5g",
-      "gorduras": "12g",
-      "carboidratos": "50g"
-    },
     "autor": "João Costa",
     "pais": "Brasil",
     "categoria": "Sobremesa",
@@ -120,12 +109,6 @@
       }
     ],
     "modo_preparo": "Refogue a cebola e o alho até dourar.\rAdicione a carne e cozinhe até dourar.\rMisture o molho de tomate e tempere.\rMonte a lasanha alternando camadas de massa, molho e queijo.\rAsse em forno pré-aquecido a 200°C por 30 minutos.",
-    "informacoes_nutricionais": {
-      "calorias": 500,
-      "proteinas": "25g",
-      "gorduras": "15g",
-      "carboidratos": "50g"
-    },
     "autor": "Carla Mendes",
     "pais": "Itália",
     "categoria": "Prato Principal",
@@ -164,12 +147,6 @@
       }
     ],
     "modo_preparo": "Torre as fatias de pão no forno ou na frigideira.\rEsfregue o alho nas fatias de pão ainda quentes.\rPique os tomates e misture com manjericão, azeite e sal.\rColoque a mistura sobre o pão torrado e sirva.",
-    "informacoes_nutricionais": {
-      "calorias": 150,
-      "proteinas": "4g",
-      "gorduras": "5g",
-      "carboidratos": "20g"
-    },
     "autor": "Luca Rossi",
     "pais": "Itália",
     "categoria": "Entrada",
@@ -212,12 +189,6 @@
       }
     ],
     "modo_preparo": "Hidrate o cuscuz com a água quente e deixe descansar por 5 minutos.\rSolte o cuscuz com um garfo.\rAdicione os legumes picados, passas e azeite.\rTempere com sal e pimenta e misture bem antes de servir.",
-    "informacoes_nutricionais": {
-      "calorias": 250,
-      "proteinas": "5g",
-      "gorduras": "7g",
-      "carboidratos": "40g"
-    },
     "autor": "Ahmed Tarek",
     "pais": "Marrocos",
     "categoria": "Vegetariano",
@@ -256,12 +227,7 @@
       }
     ],
     "modo_preparo": "Refogue a cebola e o alho no azeite até dourar.\rAdicione a abóbora picada e refogue por mais alguns minutos.\rCubra com o caldo de legumes e cozinhe até a abóbora ficar macia.\rBata no liquidificador até obter um creme.\rTempere com sal e pimenta e sirva quente.",
-    "informacoes_nutricionais": {
-      "calorias": 120,
-      "proteinas": "2g",
-      "gorduras": "4g",
-      "carboidratos": "20g"
-    },
+
     "autor": "Ana Clara",
     "pais": "Brasil",
     "categoria": "Vegetariano",
@@ -300,12 +266,6 @@
       }
     ],
     "modo_preparo": "Separe as claras das gemas e bata as claras em neve.\rMisture as gemas com o açúcar até obter um creme claro.\rAdicione o mascarpone e misture bem.\rIncorpore as claras em neve delicadamente.\rMolhe os biscoitos no café e monte camadas alternando com o creme.\rPolvilhe cacau por cima e leve à geladeira por 4 horas antes de servir.",
-    "informacoes_nutricionais": {
-      "calorias": 400,
-      "proteinas": "8g",
-      "gorduras": "20g",
-      "carboidratos": "45g"
-    },
     "autor": "Giovanni Bianchi",
     "pais": "Itália",
     "categoria": "Sobremesa",
@@ -348,12 +308,6 @@
       }
     ],
     "modo_preparo": "Deixe o feijão de molho por 12 horas.\rCozinhe o feijão com as carnes por 2 horas em fogo baixo.\rRefogue a cebola e o alho e adicione ao feijão.\rAcerte o sal e cozinhe por mais 30 minutos.\rSirva com arroz e farofa.",
-    "informacoes_nutricionais": {
-      "calorias": 600,
-      "proteinas": "35g",
-      "gorduras": "20g",
-      "carboidratos": "50g"
-    },
     "autor": "Carlos Alberto",
     "pais": "Brasil",
     "categoria": "Prato Principal",
@@ -392,12 +346,7 @@
       }
     ],
     "modo_preparo": "Amasse o abacate com um garfo.\rPique o tomate e a cebola em cubos pequenos.\rMisture todos os ingredientes em uma tigela.\rTempere com sal, pimenta e suco de limão.\rSirva com nachos ou torradas.",
-    "informacoes_nutricionais": {
-      "calorias": 150,
-      "proteinas": "2g",
-      "gorduras": "10g",
-      "carboidratos": "10g"
-    },
+
     "autor": "Luis Martinez",
     "pais": "México",
     "categoria": "Entrada",
